@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* 
+  imgのサイズ調整に関しては、
+  ChatGPTが生成する画像のサイズ次第で
+  変更する。
+  もしChatGPTが生成する画像のサイズが一定なのであれば、
+  それに合わせて調整する
+  そうでない場合は
+  また検討する。
+*/
+img {
+  width: 300px;
+
+}
+
+.description {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
